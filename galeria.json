@@ -8,5 +8,5 @@ let galleryData = {
   "pintura": [],
   "aluminio": [],
   "insonorizacion": [],
-  "aislamiento": ["1.jpeg"]
-};
+  "aislamiento": ["https://i.imgur.com/fHJ14xN.jpeg"]
+}

@@ -1,0 +1,12 @@
+// LÓGICA DE GALERÍA Y CARROUSEL DINÁMICO
+let galleryData = {
+  "albanileria": [],
+  "electricidad": [],
+  "pladur": [],
+  "techos": [],
+  "fontaneria": [],
+  "pintura": [],
+  "aluminio": [],
+  "insonorizacion": [],
+  "aislamiento": ["1.jpeg"]
+};

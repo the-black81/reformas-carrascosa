@@ -1,5 +1,4 @@
-// LÓGICA DE GALERÍA Y CARROUSEL DINÁMICO
-let galleryData = {
+{
   "albanileria": [],
   "electricidad": [],
   "pladur": [],
